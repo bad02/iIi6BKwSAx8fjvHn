@@ -8,7 +8,6 @@ This project is a landing page application built using React.
 ## Table of Contents
 
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Running the Project](#running-the-project)
 - [Project Structure](#project-structure)
@@ -18,13 +17,6 @@ This project is a landing page application built using React.
 - [Contact Information](#contact-information)
 
 ## Getting Started
-
-### Prerequisites
-
-Before you begin, ensure you have the following dependencies installed:
-
-- Node.js (version X.X.X)
-- npm (version X.X.X)
 
 ### Installation
 
