@@ -6,9 +6,9 @@ import Resume from './components/Resume';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/iIi6BKwSAx8fjvHn">
       <Routes>
-        <Route path="/" exact element={<LandingPage />} />
+        <Route path="/" element={<LandingPage />} />
         <Route path="/bmi" element={<BMICalculation />} />
         <Route path="/resume" element={<Resume />} />
       </Routes>
@@ -17,4 +17,5 @@ function App() {
 }
 
 export default App;
+
 

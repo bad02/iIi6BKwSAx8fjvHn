@@ -2,6 +2,7 @@
   "name": "landing-page",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://bad02.github.io/iIi6BKwSAx8fjvHn",
   "dependencies": {
     "@testing-library/user-event": "^13.5.0",
     "react": "^18.2.0",
