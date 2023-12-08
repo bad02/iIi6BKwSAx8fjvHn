@@ -74,6 +74,6 @@ npm test
 
 ## Contact Information
 
-For questions or support, please contact us at [your-email@example.com](mailto:your-shivambadoniya@gmail.com).
+For questions or support, please contact us at [shivambadoniya@gmail.com].
 
 ---
