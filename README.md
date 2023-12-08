@@ -15,8 +15,6 @@ This project is a landing page application built using React.
 - [Scripts](#scripts)
 - [Dependencies](#dependencies)
 - [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact Information](#contact-information)
 
 ## Getting Started
